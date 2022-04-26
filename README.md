@@ -1,0 +1,2 @@
+# statisticalHealthCode
+用来统计用户提交的健康卡和行程码是否存在异常
