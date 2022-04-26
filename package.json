@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "async": "^3.2.3",
+    "baidu-aip-sdk": "^4.15.8",
+    "node-xlsx": "^0.21.0"
+  }
+}
